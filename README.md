@@ -13,4 +13,4 @@ TestSourceTree
 
 6) Conflict test -- from server part2
 
-7) Hanyi pushe from his local after get the contributor privilege
+7) From Hanyi's Fork
