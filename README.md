@@ -8,3 +8,5 @@ TestSourceTree
 3) Local change made after check out into existing branch (master)
 
 4) Now a local change, do the commits from vs.
+
+5) Now from vs online w/ a sync.
