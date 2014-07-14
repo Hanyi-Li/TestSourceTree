@@ -12,3 +12,5 @@ TestSourceTree
 5) Now from vs online w/ a sync.
 
 6) Conflict test -- from server part2
+
+7) Update on server from branchTest1
