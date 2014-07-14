@@ -10,3 +10,5 @@ TestSourceTree
 4) Now a local change, do the commits from vs.
 
 5) Now from vs online w/ a sync.
+
+6) Conflict test -- from server
