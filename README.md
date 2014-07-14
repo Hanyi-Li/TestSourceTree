@@ -11,4 +11,4 @@ TestSourceTree
 
 5) Now from vs online w/ a sync.
 
-6) Conflict test -- from server
+6) Conflict test -- from server part2
