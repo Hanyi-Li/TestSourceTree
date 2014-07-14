@@ -12,3 +12,5 @@ TestSourceTree
 5) Now from vs online w/ a sync.
 
 6) Conflict test -- from server part2
+
+7) Hanyi pushe from his local after get the contributor privilege
